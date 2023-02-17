@@ -32,7 +32,7 @@ void BFS(struct Node* root) {
   }
 }
 int main() {
-  printf("CODE BY YASH PRATAP KAUSHIK FROM IT-C\n");
+  printf("sandeep kumar shah FROM IT-C\n");
   struct Node* root = createNode(45);
   root->left = createNode(50);
   root->right = createNode(36);
